@@ -16,7 +16,7 @@ alk;dsfj
 
 alsdfj
 
-kjakf
+kjakfj
 
 
 
@@ -27,4 +27,9 @@ kjakf
 
 
 
+
+<<<<<<< HEAD
 qqqqqqqqqqqqqqqqqqqqj
+=======
+aaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> master
